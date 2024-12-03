@@ -1,0 +1,2 @@
+../Core/Src/stm32l4xx_hal_msp.c:50:1:__io_putchar	16	static
+../Core/Src/stm32l4xx_hal_msp.c:75:6:HAL_MspInit	16	static

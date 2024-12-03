@@ -1,0 +1,3 @@
+../Core/Src/components/MCP23S17.c:14:6:MCP23S17_init	5
+../Core/Src/components/MCP23S17.c:37:19:MCP23S17_WriteRegister	1
+../Core/Src/components/MCP23S17.c:50:9:MCP23S17_ReadRegister	1
